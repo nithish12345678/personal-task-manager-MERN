@@ -4,7 +4,7 @@
 # Task Manager
 
 A simple web application for managing a personal task list.
-![Uploading task-manager app screenshot.png…]()
+![task-manager app screenshot](https://github.com/nithish12345678/personal-task-manager-MERN/assets/83687979/d1213a4e-17a3-4c61-bc4c-4eec10edcf5f)
 
 
 # Backend Setup
