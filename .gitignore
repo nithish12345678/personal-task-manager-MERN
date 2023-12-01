@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Dependency directories
+pids/
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Ignore environment-specific configuration files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Optional: Ignore editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional: Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Optional: Ignore test results
+coverage/
+
+# Optional: Ignore deployment-related files
+*.pem
+*.key
+*.cert
+
+# Optional: Ignore package-lock files
+package-lock.json
+
+# Optional: Ignore yarn lock files
+yarn.lock
