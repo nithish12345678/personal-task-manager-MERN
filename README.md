@@ -4,7 +4,8 @@
 # Task Manager
 
 A simple web application for managing a personal task list.
-![task-manager app screenshot](task-manager app screenshot.png)
+![Uploading task-manager app screenshot.png…]()
+
 
 # Backend Setup
 ## Prerequisites
